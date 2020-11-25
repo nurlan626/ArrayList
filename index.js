@@ -3,7 +3,7 @@ function ArrayList(){
     this.size = 0;
 }
 
-// инициализация
+// инициализация ddddd
 ArrayList.prototype.init = function(array){ 
     this.arr = array;
     this.size = array.length;
