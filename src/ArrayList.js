@@ -99,7 +99,9 @@ arrayList.init([1, 2, 3, 4, 5, 6, 7, 8, 9]);
 //console.log(arrayList.MyToString());
 //console.log(arrayList.MyClear());
 //console.log(arrayList.MyReverse());
-console.log(arrayList.MySlice(2, 8));
+//console.log(arrayList.MySlice(2, 8));
 
+
+module.exports=ArrayList
 
 
